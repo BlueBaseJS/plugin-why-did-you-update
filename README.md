@@ -1,7 +1,7 @@
 <div align="center">
 	<img width=125 height=125 src="assets/common/logo.png">
   <h1>
-		Untitled Plugin
+		Why Did You Update Plugin
 	</h1>
   <p>A BlueBase plugin boilerplate!</p>
 </div>
