@@ -4,7 +4,7 @@
         "storybook:start": "bluebase storybook:start"
     },
     "devDependencies": {
-        "@bluebase/cli-essentials": "^0.0.2",
+        "@bluebase/cli-essentials": "^0.0.5",
         "@bluebase/core": "^4.0.0-aplha.10",
         "@bluebase/storybook-addon": "^3.0.0",
         "@blueeast/tslint-config-blueeast": "^0.7.0",
